@@ -17,7 +17,6 @@ Contributions are welcome in the form of Pull Requests.
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 ## How do I get this on my computer?!
--------------------------------------
 
 Initially, you will have to `clone` this repository.  The following example shows you how to put it on your
 Desktop, but you can have it anywhere you want.
@@ -38,7 +37,6 @@ Since you were already at `~/Desktop/`, though, you could also just `cd lecture-
 specific exercise.
 
 ## When the next lecture's demo is added, how do I get it?
-----------------------------------------------------------
 
 You now have a *local* copy of the demo repository on your computer.  Unlike Dropbox, `git` does not automatically
 download things for you.  Remember that `.git/` folder?  That is where the magic happens.  Do not **ever** change,
