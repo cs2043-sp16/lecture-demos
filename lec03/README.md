@@ -73,12 +73,12 @@ Go ahead and try that first.  Even as root, you have been denied.
 
 1. Change the permissions so that only the root user can `cat` the file.
 
-Verify your success of only permitting the root user by exiting and catting it again as the regular user:
+   Verify your success of only permitting the root user by exiting and catting it again as the regular user:
 
-```
-> exit
-> cat demo/lemmings/are_watching_you.txt
-```
+   ```
+   > exit
+   > cat demo/lemmings/are_watching_you.txt
+   ```
 
 2. Become the super user again.  Now change the permissions so that you can warn your regular users where these little guys are.  Verify your success again.
 
