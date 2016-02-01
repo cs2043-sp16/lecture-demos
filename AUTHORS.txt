@@ -1,0 +1,3 @@
+Authors ordered by first contribution:
+
+Stephen McDowell <sjm324@cornell.edu>
