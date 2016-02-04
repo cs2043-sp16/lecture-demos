@@ -1,4 +1,4 @@
-by step.# Forking a Repository
+# Forking a Repository
 
 Today we will fork a repository!  Video at the bottom of me doing it step by step.
 
@@ -48,9 +48,9 @@ Again, straight from [GitHub](https://help.github.com/articles/syncing-a-fork/),
 
 1. Open Terminal (for Mac and Linux users) or the command prompt (for Windows users).
 
-    Change the current working directory to your local project.
+2. Change the current working directory to your local project.
 
-    Fetch the branches and their respective commits from the upstream repository. Commits to master will be stored in a local branch, upstream/master.
+3. Fetch the branches and their respective commits from the upstream repository. Commits to master will be stored in a local branch, upstream/master.
 
     ```
     git fetch upstream
@@ -62,14 +62,14 @@ Again, straight from [GitHub](https://help.github.com/articles/syncing-a-fork/),
      * [new branch]      master     -> upstream/master
     ```
 
-    Check out your fork's local master branch.
+4. Check out your fork's local master branch.
 
     ```
     git checkout master
     Switched to branch 'master'
     ```
 
-    Merge the changes from upstream/master into your local master branch. This brings your fork's master branch into sync with the upstream repository, without losing your local changes.
+5. Merge the changes from upstream/master into your local master branch. This brings your fork's master branch into sync with the upstream repository, without losing your local changes.
 
     ```
     git merge upstream/master
@@ -103,4 +103,3 @@ The process from start to finish, with a little extra.  ~15min of your time, if 
 ## Sync with the remote when there are changes
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/ZnSFmYstgaA" frameborder="0" allowfullscreen></iframe>
-
