@@ -1,7 +1,6 @@
 # lecture-demos
 
-Lecture slides for [CS 2043][cs2043].  This repository has been designed to accompany the course website in the
-form of a git submodule.
+Lecture demos for [CS 2043][cs2043].
 
 You are in no way expected to complete all of these exercises, they are here for you to experiment if you want
 to.  We will begin the exercise at the end of class, and I will release *a* solution (not *the only* solution)
@@ -59,10 +58,9 @@ you are in the `lecture-demos` or any of its subdirectories, you can execute the
 
 ## Great, but how do I keep track of my own changes?
 
-You are welcome to work locally, you can `git commit` your changes and they will be saved.  However, soon we
-will be setting up *forks* so that you can host your changes online (therefore giving you a backup).  If you
-know how to do this already, you are welcome to set it up now.  If this is your first time using `git`, please
-wait until I show you how to do this in class.
+You are welcome to work locally, you can `git commit` your changes and they will be saved.
+
+Go to [lecture 4's demo](lec04/) to see how to setup the a fork so you can get practice making commits and pushing to a repository.
 
 I will (hopefully) not ever need to make any changes directly to the original files I push for each lecture demo,
 and will instead be creating `SOLUTION` files / folders where applicable.  As long as you do not ever make a file
