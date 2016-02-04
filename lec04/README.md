@@ -96,10 +96,6 @@ Again, straight from [GitHub](https://help.github.com/articles/syncing-a-fork/),
 
 The process from start to finish, with a little extra.  ~15min of your time, if you are following along.
 
-## Setup the remote
+## 1. <a href="https://youtu.be/RQrDsLk4rZs" target="_blank">Setup the remote</a>
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/RQrDsLk4rZs" frameborder="0" allowfullscreen></iframe>
-
-## Sync with the remote when there are changes
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/ZnSFmYstgaA" frameborder="0" allowfullscreen></iframe>
+## 2. <a href="https://youtu.be/ZnSFmYstgaA" target="_blank">Sync with the remote when there are changes</a>
