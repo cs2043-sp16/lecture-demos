@@ -88,7 +88,7 @@ grep -co "monster" frankenstein.txt
 
 ---
 
-Revealing that the word "monster" appears **33** times in the text.
+Revealing that the word `monster` appears **33** times in the text.
 
 > ## p4.sh
 >
