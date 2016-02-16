@@ -61,6 +61,7 @@ As easy as:
 You should now be hearing something coming through your speakers / headphones.
 
 **Caution**: `vlc` has some serious problems if you give invalid filenames.
+
 1. Use the `TAB` key to guarantee that is correct.
 2. `ctrl+c` may work for you, try that first.
 3. You very well may need to `kill` it, and it almost certainly will not go quietly.  Another reason I chose this.
