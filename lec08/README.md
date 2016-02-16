@@ -75,7 +75,7 @@ The solution is being released with the demo, but do try and write it on your ow
    - Separate replacements with a `;`
 6. Put it all in a loop!
    - Maybe try writing a loop to `echo` out `{home,about,work,play}` first.
-7. Be very careful with single vs double quotes.  I heavily emphasized in lecture that you should try and always use single quotes.  Which is true.  But you cannot complete this exercise using just single quotes.
+7. Be very careful with single vs double quotes.  I heavily emphasized in lecture that you should try and always use single quotes.  Which is true.  But you should not complete this exercise using just single quotes.
    - If you have a variable `FOO` and try and create a string using `'Hi $FOO, how are you?'`, it will not work.  You will get `$FOO`, not the value in `FOO`.
    - One solution is to write `'Hi '"$FOO"', how are you?'`
    - I told you, `bash` is rarely pretty.
