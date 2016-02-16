@@ -17,4 +17,4 @@ for page in {home,about,work,play}; do
 done
 ```
 
-Basically, we have to search for the common items in both and replace them.  Four new html files will be generated, and you can open one of `home.html`, `about.html`, `work.html`, or `play.html` and navigate between them :)
+Basically, we have to search for the common items in both and replace them.  Four new html files will be generated, and you can open one of `home.html`, `about.html`, `work.html`, or `play.html` in your browser and navigate between them :)
