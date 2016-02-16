@@ -21,15 +21,15 @@ Initially, you will have to `clone` this repository.  The following example show
 Desktop, but you can have it anywhere you want.
 
 ```
-> cd ~/Desktop/
-> git clone https://github.com/cs2043-sp16/lecture-demos.git
+>>> cd ~/Desktop/
+>>> git clone https://github.com/cs2043-sp16/lecture-demos.git
 ```
 
 You now have the folder `~/Desktop/lecture-demos/`.  To work on a specific exercise, simply `cd` into the
 directory.  For example, if you want to work on the exercise for lecture 3, you will find it at
 
 ```
-> cd ~/Desktop/lecture-demos/lec03/
+>>> cd ~/Desktop/lecture-demos/lec03/
 ```
 
 Since you were already at `~/Desktop/`, though, you could also just `cd lecture-demos/lec03` to work on that
@@ -42,15 +42,15 @@ download things for you.  Remember that `.git/` folder?  That is where the magic
 delete, or add anything in this folder.  When you do
 
 ```
-> cd ~/Desktop/lecture-demos/
-> ls -al
+>>> cd ~/Desktop/lecture-demos/
+>>> ls -al
 ```
 
 you will see the `.git` folder.  This means that you are at the *top-level* directory of a `git` repository.  Now
 you can issue the
 
 ```
-> git pull
+>>> git pull
 ```
 
 command, and if the remote server has any updates on it you will be able to download them locally.  As long as
