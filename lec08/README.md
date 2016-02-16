@@ -80,3 +80,9 @@ The solution is being released with the demo, but do try and write it on your ow
    - One solution is to write `'Hi '"$FOO"', how are you?'`
    - I told you, `bash` is rarely pretty.
    - <a href="http://stackoverflow.com/a/13802438/3814202" target="_blank">This SO answer</a> gives a good explanation of why.  Single quotes preserve everything!
+
+### When you are Finished
+
+Go ahead and `git add` your `nav.sh` script, as well as the beautiful new html files you have generated automatically!
+
+Follow it all up with a `git commit` and `git push` to store your work online!
