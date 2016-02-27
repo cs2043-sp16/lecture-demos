@@ -2,7 +2,7 @@ import sys
 import random as r
 
 # This generator relies on a random-number generator so the results will be different every
-# time it runs.This file generator does not support the generation of negative sequences.
+# time it runs. This file generator does not support the generation of negative sequences.
 #
 # Feel free to make changes to DIM_X and DIM_Y.  The larger they are, the more numbers you
 # will generate.
