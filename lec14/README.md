@@ -50,23 +50,7 @@ I am just going to paste the output of what my debugger is showing me now, but y
 I un-comment line 25 `ipdb.set_trace()` in order tell `ipdb` that we want to start debugging there.  You can move that call anywhere you want, as well as do a whole lot more with `ipdb`.  Technically this is the `IPython` debugger, but it functions just the same as `pdb` and is a little easier to follow in my opinion ;)
 
 ```bash
->>> ./debug.py
-Before transpose:
-[0, 1, 2, 3, 4]
-[0, 1, 2, 3, 4]
-[0, 1, 2, 3, 4]
-[0, 1, 2, 3, 4]
-[0, 1, 2, 3, 4]
-> lecture-demos/lec14/debug.py(65)<module>()
-     64 #
----> 65 for x in range(N):
-     66     for y in range(N):
-
-ipdb> exit()
-Exiting Debugger.
-sven:~/Dropbox/year_one/spring/unix/lecture-demos/lec14> c
-[3;J
-sven:~/Dropbox/year_one/spring/unix/lecture-demos/lec14> ./debug.py
+lecture-demos/lec14> ./debug.py
 Before transpose:
 [0, 1, 2, 3, 4]
 [0, 1, 2, 3, 4]
